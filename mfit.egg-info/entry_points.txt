@@ -1,0 +1,3 @@
+[console_scripts]
+mfit1 = mfit.__main__:mfit1
+mfit2 = mfit.__main__:mfit2

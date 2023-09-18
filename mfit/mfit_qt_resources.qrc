@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="data">
+    <file>data/import_download_icon_176152.ico</file>
+    <file>data/application-detail.png</file>
+    <file>data/arrow-circle-225.png</file>
+    <file>data/chart_curve_go.png</file>
+    <file>data/cross.png</file>
+    <file>data/disk.png</file>
+    <file>data/folder_go.png</file>
+    <file>data/question-frame.png</file>
+    <file>data/table_go.png</file>
+  </qresource>
+</RCC>
